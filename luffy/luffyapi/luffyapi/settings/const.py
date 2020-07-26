@@ -1,0 +1,5 @@
+BANNER_COUNTER=3
+
+
+
+PHONE_KEY='sms_code_%s'
